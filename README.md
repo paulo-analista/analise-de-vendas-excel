@@ -1,4 +1,5 @@
 📊 Dashboard de Vendas – Excel
+
 📌 Descrição do Projeto
 Este projeto consiste na criação de um dashboard interativo em Excel, utilizando uma base de dados fictícia de vendas, com o objetivo de demonstrar habilidades em organização de dados, análise exploratória e visualização de informações.
 O arquivo foi estruturado de forma clara, separando dados brutos, resumo analítico e dashboard visual, seguindo boas práticas de análise de dados.
